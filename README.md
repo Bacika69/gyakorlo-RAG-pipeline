@@ -72,7 +72,7 @@ docker compose up -d
 ---
 
 ## 5. Ollama
-
+töltsd  le innen: https://ollama.com/download
 ```bash
 ollama pull llama3.2:3b
 ```
